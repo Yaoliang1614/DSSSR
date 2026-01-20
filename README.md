@@ -1,2 +1,3 @@
-# DSSSR  was accepted by Neural Networks in 2022
+# DSSSR
+Paper was accepted by Neural Networks in 2022  
 Matlab code for "Double structure scaled simplex representation for multi-view subspace clustering"
