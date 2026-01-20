@@ -1,4 +1,2 @@
 # SSRSC
-Matlab code for "Scaled Simplex Representation for Subspace Clustering (SSRSC)"
-
-I will arrange these codes when I am not preparing deadlines. Sorry.
+Matlab code for "Double structure scaled simplex representation for multi-view subspace clustering"
