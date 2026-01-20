@@ -1,5 +1,5 @@
 # DSSSR 
-Matlab code for "Double structure scaled simplex representation for multi-view subspace clustering"  
+"Double structure scaled simplex representation for multi-view subspace clustering"  
 Paper was accepted by Neural Networks in 2022   
   
 @article{yao2022double,
